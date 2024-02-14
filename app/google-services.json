@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516134670639",
+    "firebase_url": "https://whatzapp-af80b-default-rtdb.firebaseio.com",
+    "project_id": "whatzapp-af80b",
+    "storage_bucket": "whatzapp-af80b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516134670639:android:d3fead679ddd18f160d1da",
+        "android_client_info": {
+          "package_name": "com.nnjtrading.whatzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516134670639-k4t0sqn2299dk4oalcge50k7ccbr6cio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nnjtrading.whatzapp",
+            "certificate_hash": "59cb0cabfabc366564b0cf96f455ddb7d733cdc7"
+          }
+        },
+        {
+          "client_id": "516134670639-j065njggcv8gnilc0ju06tj5vnr5tjiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWiJgC73XnRzfkX5SO2NM-HCLV5bD-xEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516134670639-j065njggcv8gnilc0ju06tj5vnr5tjiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WhatzApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darkBackground</item>
+        <item name="background">@color/primaryDark</item>
+        <item name="backgroundColor">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorOnSecondary">@color/Gray</item>
+        <item name="colorSecondary">@color/darkBackground</item>
+        <item name="colorPrimaryVariant">@color/Gray</item>
+        <!-- Status bar color. -->
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">@color/primaryDark</item>
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:windowBackground">@color/primaryDark</item>
+    </style>
+
+</resources>
